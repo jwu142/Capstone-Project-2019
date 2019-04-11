@@ -10,8 +10,8 @@ Want your website featured here? [Contact Dean Attali](http://deanattali.com/abo
 ### Project/company websites
 
 {: .table.table-responsive}
-| Website | Description | Github Repository |
-| :------ |:----------- | ----------------- |
+| Feature Variable | Description |
+| :------ |:----------- |
 | [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
 | [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium | [https://github.com/vimc/vimc-website](https://github.com/vimc/vimc-website) |
 | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
