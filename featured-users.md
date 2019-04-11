@@ -24,20 +24,3 @@ Want your website featured here? [Contact Dean Attali](http://deanattali.com/abo
 | [ddocent.com](http://ddocent.com/) | RADSeq Bioinformatics and Beyond |
 | [guitarlessons.org](https://www.guitarlessons.org/) | Free online guitar lessons for all |
 | [terremotocentroitalia.info](https://www.terremotocentroitalia.info/) | Information about the 2016 Italy earthquake |
-
-### Personal websites
-
-{: .table.table-responsive}
-| Website | Who | What |
-| :------ |:--- | :--- |
-| [deanattali.com](http://deanattali.com) | Dean Attali | Creator of Beautiful Jekyll |
-| [ouzor.github.io](http://ouzor.github.io) | Juuso Parkkinen | Data scientist |
-| [derekogle.com](http://derekogle.com/) | Derek Ogle | Professor of Mathematical Sciences and Natural Resources |
-| [melyanna.github.io](http://melyanna.github.io/) | Melyanna | Shows off her nice art |
-| [chauff.github.io](http://chauff.github.io/) | Claudia Hauff | Professor at Delft University of Technology |
-| [kootenpv.github.io](http://kootenpv.github.io/) | Pascal van Kooten | Data analytics |
-| [sjackman.ca](http://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
-| [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
-| [sharepointoscar.github.io](http://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
-| [ocram85.com](https://ocram85.com) | Marco Blessing | A personal blog about PowerShell and automation |
-| [khanna.cc](https://khanna.cc/) | Harry Khanna | Law and software |
