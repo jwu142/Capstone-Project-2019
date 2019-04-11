@@ -13,21 +13,3 @@ Want your website featured here? [Contact Dean Attali](http://deanattali.com/abo
 | Feature Variable | Description |
 | Fires |Table including wildfire data for the period of 1992-2015 compiled from US federal, state, and local reporting systems. |
 | FOD_ID |Global unique identifier. |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
-| :------ |:----------- |
