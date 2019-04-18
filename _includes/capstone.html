@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> DATS 6401 - Final Project - Jiajun Wu  </title>
+		<link rel="stylesheet" type="text/css" href="style/style.css" />
+		<script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.0.0.min.js"></script>
+		<script type="text/javascript">
+			var workbook, activeSheet;
+
+			function initViz() {
+				var containerDiv = document.getElementById("tableauViz"),
+				url = "https://public.tableau.com/views/GunViolence_28/TimeRelatedTrends?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 830,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz0() {
+				var containerDiv = document.getElementById("tableauViz0"),
+				url = "https://public.tableau.com/views/MassShootingsFinished/Mass886?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 830,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz1() {
+				var containerDiv = document.getElementById("tableauViz1"),
+				url = "https://public.tableau.com/views/MassShootingsFinished/2-886?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz2() {
+				var containerDiv = document.getElementById("tableauViz2"),
+				url = "https://public.tableau.com/views/GunViolence_28/Dashboard3?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz3() {
+				var containerDiv = document.getElementById("tableauViz3"),
+				url = "https://public.tableau.com/views/GunViolence_28/KeycharacteristicsofGunViolenceIncidents?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz4() {
+				var containerDiv = document.getElementById("tableauViz4"),
+				url = "https://public.tableau.com/views/MassShootingsFinished/Dashboard6?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz5() {
+				var containerDiv = document.getElementById("tableauViz5"),
+				url = "https://public.tableau.com/views/GunViolence_28/MostSeriousGunViolenceIncidents_1?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz6() {
+				var containerDiv = document.getElementById("tableauViz6"),
+				url = "https://public.tableau.com/views/MassShootingsFinished/Dashboard7?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+			function initViz7() {
+				var containerDiv = document.getElementById("tableauViz7"),
+				url = "https://public.tableau.com/views/GunViolence_28/Dashboard6?:embed=y&:display_count=yes&publish=yes";
+
+				 var options = {
+				    width: 1000,
+				    height: 850,
+				    hideTabs: true,
+				    hideToolbar: true,
+				    onFirstInteractive: function () {
+				      workbook = viz.getWorkbook();
+				      activeSheet = workbook.getActiveSheet();
+				    }
+				  };
+				var viz = new tableau.Viz(containerDiv, url, options);
+				}
+
+
+			
+		</script>
+	</head>
+
+	<body onload="initViz();initViz1();initViz0();initViz2();initViz3();initViz4();initViz5();initViz6();initViz7()" style="background-color:AliceBlue;">
+		<style> 
+	      	body{text-align:center;
+	      		width: 1200px;
+			  margin: 0 auto;
+			  background-color: #FF9500;
+			  padding: 0 20px 20px 20px;
+			  border: 5px solid black;} 
+	    </style> 
+	    <img src="images/gwu-logo.png" alt="My test image">
+
+			<h1>US Gun Violence Analysis </h1>
+			<h5> DATS 6401 - Final Project - Jiajun Wu</h5>
+			<h5>Jiajun Wu</5>
+			<h5>Spring 2018</h5>
+			<h5><a href="mailto:jwu142@gwu.edu@gwu.edu">jwu142@gwu.edu</a></h5>
+			<br />
+
+		<p>Gun violence looks pretty frequently for the American daily life. According to the data from the Centers for Disease Control, there are almost 33,000 Americans died from the gun violence each year. And From 1966 to 2012, nearly one-third of the world's mass shootings occurred in the United States, according to CNN reporting data. It is devastating for every American, especially for those who have suffered gun violence. Let's not forget to mention, the loved ones who suffer along with the victims. In this data visualization project, the visualization tools such as the Tableau API, Tableau will be utilized to make some graphs, charts to show the relationship between each feature and the conditions of gun-violence.  And also, some geo-map will be developed by the Tableau during the data visualization to show the gun-violence in each state in the United States. Based on the data visualization, the future trends in gun-violence can predict. People can know where gun-violence is more terrible from this project. Therefore, they can avoid those areas necessary. In general, the program is not only statistically but also can be used to evaluate future trends in gun-violence. </p>
+
+		<h4>Datasets Background: </h4>
+		<p>The first dataset comes from the Gun Violence Archive. The data details information about gun violence: such as the date of the crime; state, city or county of the crime; the number of people killed and injured; the type of gun used in the crime; the scene of the crime''s latitude and longitude; and the place where the crime took place and etc. The second dataset is about the US mass shootings and originally from the Gun Violence Archive. This data with detailed information about the mass shootings location, data, fatalities, number of victims, venue, race, latitude and longitude. </p>
+			
+				<li><a href="https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/">US Mass Shootings, 1982-2018: Data From Mother Jones' Investigation</a></li>
+				<li><a href="https://www.kaggle.com/jameslko/gun-violence-data">Gun Violence Data - Comprehensive record of over 260k US gun violence incidents from 2013-2018 </a></li>
+			
+		<h4>The raw datasets were analyzed by Tableau with respect to these four major themes: </h4>
+			
+						<li>Exploring Time Related Trends</li>
+						<li>Exploring Location Related trends</li>
+						<li>Other characteristics of Gun Violence Incidents</li>
+						<li>Conclusions</li>
+		
+		<h2>Exploring Time Related Trends</h2>
+		<div id="tableauViz"></div>
+		<p>Most of gun violence happened during the weekend. Summer season has the higher frequency of gun violence incidents and winter season has the lowest frequency of gun violence incidents, but January has the higher frequency than the rest of the winter months. February has the lowest average number of incidents. The frequency of incidents looks have the direct relationship with the temperature, the higher temperature, the higher frequency of the incidents. 
+		The tendency of the incidents, people who killed and injured also plotted and predicted. The number of people killed looks will be stable in the next two years, but the total incident will be increased. </p>
+
+		<div id="tableauViz0"></div>
+		<p>The number of mass shootings will be reached eight times in the 2024, and the estimated injured number will reach to 680.</p>
+		<br />
+
+		<h2>Other characteristics of Gun Violence Incidents</h2>
+		<div id="tableauViz1"></div>
+		<p>In the racial analysis part, the number of white shooters is greater than the sum of Black, Asian, Latino, and Native American. For the sex distribution, over the ninth-six percent mass shooting shooters are male. </p>
+		<div id="tableauViz2"></div>
+		<p>For the sex distribution, over the ninth-six percent mass shooting shooters are male. In the gender analysis part, over ninth-three gun-violence suspects are male. And over eighty-one percent gun-violence victims are male. The majority of gun violence suspects and victims are located between the ages of 17 to 26. Depending on the data statistics, white male has a higher gun violence rate than other races. </p>
+		<div id="tableauViz3"></div>
+		<br />
+
+		<h2>Exploring Location Related Trends</h2>
+		<div id="tableauViz4"></div>
+		<div id="tableauViz7"></div>
+		<p>Chicago is the most dangerous city in the United States with over 10,000 incidents from 2014 to March 2018. Baltimore, Washington, New Orleans, and Philadelphia are the rest of the top 6 cities. In the geo-map of Number of Incidents by Every State, the states divided to the four clusters depending to the number of incidents. The first cluster including the Illinois, California, Florida, and Texas. And the second cluster containing the Georgia, Louisiana, Tennessee, Ohio, North Carolina, Pennsylvania, New York.  And all of the Mideastern states, and almost all of the new England (except Massachusetts) are the fourth cluster, that means these states have the lowest number of incidents. </p>
+		<div id="tableauViz5"></div>
+		<div id="tableauViz6"></div>
+		<div class="flourish-embed" data-src="visualisation/283853"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+		<p>As the geo-map show, the most of gun violence incidents happened in the south of America, Texas, Florida, and southern California are more serious than the rest of the states. The reason why Nevada has the highest number of victims is 58 people dead and 489 people injured during the 2017 Las Vegas shooting. In general, from these geo-maps we can clearly to find that the Northeast and New England areas are much safer than the rest of the American states. The frequency of gun-violence in California, Texas, and Florida are above the national average. </p>
+		<br />	
+		
+		<h2>Conclusions</h2>
+		<p>It is an indisputable fact that the United States has the highest frequency of shootings in the world. Gun control is a true reflection of the polarization of American society. This visualization can show the public a quick view of the gun-violence. People from the different background have the different idea about the gun-violence. And this visualization project may can give the public general information about the facts of gun-violence. </p>
+
+		</div><script src="https://public.flourish.studio/resources/embed.js"></script>
+		</div><script src="https://public.flourish.studio/resources/embed.js"></script>
+		</div><script src="https://public.flourish.studio/resources/embed.js"></script>
+		</div><script src="https://public.flourish.studio/resources/embed.js"></script>
+
+		<br />
+		
+		<div id="footer">
+			&copy; <script>var d = new Date(); document.write(d.getFullYear());</script>
+			| <a href="#">HTML5</a>
+			| <a href="#">CSS</a>
+			| <a href="#">Developed by Jiajun Wu</a>
+		</div>
+	</body>
+
+</html>
