@@ -30,10 +30,6 @@ We can do it with a line of markdown that looks like this (without the slashes -
 {% include flourish.html %}
 
 
-#
-
-#
-
 1.88 Million US Wildfires Analysis
 
 Jiajun Wu, M.S.
