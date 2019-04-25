@@ -5,7 +5,7 @@ subtitle: "USDA Forest Service"
 bigimg: /img/start.jpg
 ---
 
-**Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
+**Title:** Spatial wildfire occurrence data for the United States, 1992-2015 [FPA_FOD_20170508] (4th Edition) 
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
