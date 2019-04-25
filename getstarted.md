@@ -6,6 +6,7 @@ bigimg: /img/start.jpg
 ---
 
 **Title:** Spatial wildfire occurrence data for the United States, 1992-2015 [FPA_FOD_20170508] (4th Edition) 
+**Author:** [Short, Karen C.](https://www.fs.usda.gov/rds/archive/Catalog?f_author=Short%2c+Karen+C.&pageIndex=1)
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
 
