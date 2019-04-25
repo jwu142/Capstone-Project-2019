@@ -30,7 +30,7 @@ description: Here's the description of my porject
 navbar-links:
   Home: ""
   Resources:
-    - Getting started: "getstarted"
+    - Citation: "getstarted"
     - Appendix: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
   Example pages:
