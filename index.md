@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Markdown-based page example
+title: 1.88 Million US Wildfires Analysis
 subtitle: Subtitle goes here
 bigimg: /img/start.jpg
 ---
