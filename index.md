@@ -2,7 +2,7 @@
 layout: page
 title: 1.88 Million US Wildfires Analysis
 subtitle: Subtitle goes here
-bigimg: /img/start.jpg
+bigimg: /img/joanne-francis-978866-unsplash.jpg
 ---
 
 ## Here is where we can insert an image:
