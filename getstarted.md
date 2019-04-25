@@ -25,10 +25,6 @@ bigimg: /img/start.jpg
     - [RDS-2013-0009.4_PGD.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_PGD/content) (108.14 MB - compressed format, ZIP)
     - [RDS-2013-0009.4_SQLite.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_SQLite/content) (165.82 MB - compressed format, ZIP)
   - Access [map service](https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_FireOccurrence_01/MapServer)
-  
-
-To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
-
 
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
