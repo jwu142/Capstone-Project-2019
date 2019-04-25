@@ -44,19 +44,20 @@ The George Washington University
 
 **ABSTRACT**
 
-Wildfires are often caused by lightning, and other common causes such as negligence, deliberate arson, volcanic eruptions, pyroclastic clouds, heat waves, droughts and periodic climate shifts such as El Nino which can dramatically increase the risk of wildfires. The purpose of this capstone project was to demonstrate data visualizing techniques and machine learning methods to predict the causes of wildfire and analyze wildfires in the States during a 24 year period (1992-2015).
+Wildfires are often caused by lightning, and other common causes such as negligence, deliberate arson, volcanic eruptions, pyroclastic clouds, heat waves, droughts and periodic climate shifts such as El Nino which can dramatically increase the risk of wildfires. The purpose of this capstone project was to demonstrate data visualizing techniques and machine learning methods to predict the causes of wildfire and analyze wildfires in the States during a 24-year period (1992-2015). 
 
-# _Keywords:_ Data Mining; Random Forest Classifier; Logistic Regression; location; Fire; Fire detection; wildfire; Fire Program Analysis; United States; GIS; Machine Learning; Data Visualization.
+*Keywords:_ Data Mining; Random Forest Classifier; Logistic Regression; location; Fire; Fire detection; wildfire; Fire Program Analysis; United States; GIS; Machine Learning; Data Visualization.*
 
 **INTRODUCTION**
 
-The effects of wildfires are manifold. They can have a significant negative impact on the economy, environment, heritage and social fabric of rural areas. A little spark kindles a great fire. In recent years, as fire incidents in the United States have become larger and more destructive, the government and related departments urgently need to develop long-term social and ecological strategies to mitigate the impact. Climate change is a factor to increase wildfires. However, most of wildfires were caused by humans.
+The effects of wildfires are manifold. They can have a significant negative impact on the economy, environment, heritage and social fabric of rural areas. A little spark kindles a great fire. In recent years, as fire incidents in the United States have become larger and more destructive, the government and related departments urgently need to develop long-term social and ecological strategies to mitigate the impact. Climate change is a factor to increase wildfires. However, most of wildfires were caused by humans. 
 
-This project mainly uses data visualizing to analyze the 1.88 million U.S. wildfires from 1992 to 2015 to predict the cause of a wildfire. And also, this project uses a machine learning approach to predict the cause of wildfire based on location, date (season), fire size and fire causes. Our motivation for this project is to apply the machine learning model, and also some data visualization methods to solve a real-world problem. The next few tools such as Python, JavaScript, Web, API, Tableau, Python libraries, machine learning, and visualization techniques will be used in this project.
+This project mainly uses data visualizing to analyze the 1.88 million U.S. wildfires from 1992 to 2015 to predict the cause of a wildfire. And also, this project uses a machine learning approach to predict the cause of wildfire based on location, date (season), fire size and fire causes. Our motivation for this project is to apply the machine learning model, and also some data visualization methods to solve a real-world problem. The next few tools such as Python, JavaScript, Web, API, Tableau, Python libraries, machine learning, and visualization techniques will be used in this project. 
 
-Modeling for machine learning part is focused on the following features: Description of the (statistical) cause of the fire, latitude, longitude, fire size, discovery date, month, week of day, and state. We tested several different methods to model our dataset, all involving our core three models: random forest, neural network, and support vector machine (SVM). This project gives comprehensive results of several methods, including oversampling, PCA, and hyperparameter tuning.
+Modeling for machine learning part is focused on the following features: Description of the (statistical) cause of the fire, latitude, longitude, fire size, discovery date, month, week of day, and state. We tested several different methods to model our dataset, all involving our core three models: random forest, neural network, and support vector machine (SVM). This project gives comprehensive results of several methods, including oversampling, PCA, and hyperparameter tuning. 
 
 In the end, the results are reviewed, and suggestions for further study are put forward. Random Forest Classifier can predict the causes of the wildfire with a 72.78% accuracy.
+
 
 **LITERATURE REVIEW**
 
@@ -82,9 +83,9 @@ The data publication contains a spatial database of wildfires in the United Stat
 
 **DATA ANALYSIS**
 
-The dataset is an SQLite database that contains the 1.88 million wildfire records with the fifty-one attributes. The column, Fires, includes wildfire data from the period of 1992-2015 compiled from US federal, state, and local reporting systems. Country, state, discovery date, geographic area, latitude, longitude, and fire size were updated and organized uniformly and accurately.
+The dataset is an SQLite database that contains the 1.88 million wildfire records with the fifty-one attributes. The column, Fires, includes wildfire data from the period of 1992-2015 compiled from US federal, state, and local reporting systems. Country, state, discovery date, geographic area, latitude, longitude, and fire size were updated and organized uniformly and accurately. 
 
-Python was used to analyze the US wildfires data. Specific packages used are NumPy, Pandas, and Scikit-learn. For the methods used to make predictor, Neural Net, Random Forest and Supoortt Vector Machine (SVM) were tried. Tableau provided support for almost all data visualizations including bar-charts, line chart, symbol map, geo-map, packed bubbles, bullet graphs, pie chart and heat map. Folium is a powerful data visualization library for helping people visualize geospatial data in Python. Geographic heat maps are animated based on certain dimensions using a class method called HeatMapWithTime(). The code is publicly available at [www.github.com](http://www.github.com).
+Python was used to analyze the US wildfires data. Specific packages used are NumPy, Pandas, and Scikit-learn. For the methods used to make predictor, Neural Net, Random Forest and Supoortt Vector Machine (SVM). Tableau provided support for almost all data visualizations including bar-charts, line chart, symbol map, geo-map, packed bubbles, bullet graphs, pie chart and heat map. Folium is a powerful data visualization library for helping people visualize geospatial data in Python. Geographic heat maps are animated based on certain dimensions using a class method called HeatMapWithTime(). The code is publicly available at [www.github.com](https://github.com/jwu142/Capstone-Project-2019/tree/master). 
 
 
 
