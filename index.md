@@ -65,16 +65,13 @@ Wildfires (also known as forest or peat fires) are a type of fire that cannot be
 
 **RESEARCH METHODOLOGY**
 
-**       **  **Study Area:**
-
-**       ** The dataset consists of 1.88 million geo-referenced wildfire records with 51 attributes representing the 140 million acres burned during the 24 years (1992-2015) in the United States.
+**Study Area:**
+The dataset consists of 1.88 million geo-referenced wildfire records with 51 attributes representing the 140 million acres burned during the 24 years (1992-2015) in the United States.
 
 **Packages:**
-
-We use Python to analyze forest fire data. Specific packages used are Numpy, Pandas, and Scikit-learn. We use Matplotlib for visualizations. For the methods, I used to make my predictor, I tried Neural Net, Random Forest and Support Vector Machine (SVM). A connector was created at the beginning in order to connect to the SQL database.
+We use Python to analyze forest fire data. Specific packages used are Numpy, Pandas, and Scikit-learn. We use Matplotlib for visualizations. For the methods, I used to make my predictor, I tried Neural Net, Random Forest and Support Vector Machine (SVM). A connector was created at the beginning in order to connect to the SQL database. 
 
 **Data cleaning, preprocessing, and feature selection:**
-
 Datasets were cleaned up before the data visualization and modeling. Data preprocessing techniques were used to reduce the samples and prepare the data for machine learning algorithms by excluding null values and converted Julian Date format to Gregorian dates. Python, JavaScript, Web, API, and Tableau were used for data visualization. Machine learning was done using Random Forest Classifier, MLP Classifier, Decision Tree Classifier, and Logistic Regression to determine whether a predictable relationship exists between the wildfires and the related features such as date, location, and states. Finally, this data analysis project can give professional experts some ideas and show general information about US wildfires.
 
 **DATA**
@@ -87,39 +84,23 @@ The dataset is an SQLite database that contains the 1.88 million wildfire record
 
 Python was used to analyze the US wildfires data. Specific packages used are NumPy, Pandas, and Scikit-learn. For the methods used to make predictor, Neural Net, Random Forest and Supoortt Vector Machine (SVM). Tableau provided support for almost all data visualizations including bar-charts, line chart, symbol map, geo-map, packed bubbles, bullet graphs, pie chart and heat map. Folium is a powerful data visualization library for helping people visualize geospatial data in Python. Geographic heat maps are animated based on certain dimensions using a class method called HeatMapWithTime(). The code is publicly available at [*github*](https://github.com/jwu142/Capstone-Project-2019/tree/master). 
 
-
-
-
-
 **KEY FINDINGS**
 
-Debris burning is the largest cause of US wildfires. Arson is the third cause of wildfires. Most of wildfires were human-caused such as arson, equipment uses, campfire, children, smoking, railroad, powerline, fireworks, and structure. According to the statistic, the record of Human-caused wildfire is larger than the sum of Other and Accident. Human is the chief culprit of wildfire.
+Wildfires do not come from the wild. According to the U.S. National Park Service, ninety percent of wildfires are human-caused.
 
- Sum of fire size and the number of records compared in the past 24 years. In general, the number of wildfires is going to decrease. However, that does not mean the wildfire is going more threat less for human because the fire size is going more and more larger even though the number of records is going decrease.
+Debris burning is the most significant cause of US wildfires. Arson is the third cause of wildfires. Most of the wildfires were human-caused, including sources such as arson, smoking, children, campfires, equipment use, debris burning, and fireworks. According to the statistic, the record for human-caused wildfires is larger than the sum of “Other” and “Accident” (lightning, structure, powerline, and railroad). Humans are the chief culprits of wildfires.
 
-        The fire size by county was created by Tableau. The biggest wildfire was located in Alaska and the fire size looks extremely large than the rest of wildfires. According to records, the biggest wildfire in the US history in the past 24 years was happened in the Alaska in 2004, and the fire size is 606,945 acres. And also, the accumulated fire size in this area is 32,232,475 acres in the past 24 years. The 2004 Alaska fire season was the worst on record in terms of area burned by wildfires in the U.S. state of Alaska. Wildfires are rarely happened in the Northeast and Midwest , and most of big wildfire located in the West, South,
+The sum of fire sizes and the number of records is compared through the past 24 years. The year 2006 has the most wildfires. In general, the number of wildfires is going to decrease. However, that does not mean that wildfires are going to be less of a threat for humans. This is because the fire size is becoming larger even though the number of occurencies is going to decrease. 
 
+Tableau was used to create the fire size map by each county. The biggest wildfire was located in Alaska, and the fire size looks bigger than the rest of the wildfires. According to records, the biggest wildfire in US history in the past 24 years happened in Alaska in 2004, and the fire size was 606,945 acres. Also, the accumulated fire size in this area is 32,232,475 acres in the past 24 years. The 2004 Alaska fire season was the worst on record in terms of area burned by wildfires in the U.S. state of Alaska. Wildfires rarely happen in the Northeast and Midwest, and most of the massive wildfires are located in the West and South.  
 
+The top ten states with the highest accumulated records of wildfires from 1993 to 2019 are shown in the left dynamic chart. The records of wildfires in Georgia is increasing dramatically quick. In 1992, the Georgia record for wildfires was at 81; however, in 2006, the accumulated record of wildfires was 46,127; this ranked Georgia in the top 5 states with the highest wildfire records in the United States. The funny thing is Georgia has the highest human-caused wildfire rate with 122,766 records. That means that 11.71% of human-caused wildfires happen in Georgia. In other words, 86.76% of wildfires in Georgia are human-caused. Florida has the highest record of wildfires caused by accidents such as lightning, structure, powerline and railroad, 3.15% of the total number of wildfire records. And also, New York has the highest record of unknown caused wildfires. North Carolina has the highest accumulated wildfires record; however, North Carolina was not ranked in the top 10 states with the highest accrued wildfire size. Most wildfires in North Carolina are small-size and under control. 37.94% of wildfires are "A" size (0-0.25 acres), and 53.93% of wildfires are "B" size (0.25-0.99 acres). Idaho is the state with the highest accumulated fire size, and Texas is the state with the second highest accumulated fire size.
 
+Most of wildfire sizes are between 0 to 9.9 acres; that means most of these fires can be put out on time and significant losses can be avoided through timely discovery and practical measures. However, in the past few years, the number of mega wildfires has increased extremely quickly and appears pretty hard to control. According to the previous dataset, every six years the number of large fires will reach a peak,  the next two peak times of Mega wildfires will be in 2018 and 2024. 
 
+Lightning causes the largest and biggest wildfires based on the different type of wildfire size. That means lightning caused wildfires are hard to control and put out. And also, the situation becomes more complex because Miscellaneous is the second leading cause of wildfires. It will be a huge challenge for people to predict, prevent, and control wildfires.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Every year since January, the number of wildfires will be going to increase until March; then the records will drop down until May. The number of records will decrease after August. In general, the wildfire season in the States is between Feb to April and June to August. 
 
 **RECOMMENDATIONS**
 
