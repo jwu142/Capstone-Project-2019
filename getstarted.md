@@ -20,9 +20,11 @@ bigimg: /img/start.jpg
   - View file index (HTML) which lists all files in this data publication and a short description of their contents
   - Choose from the multiple file formats available for this data publication. Each download includes metadata, file index, data files, and any other supplemental files provided by the author
     - RDS-2013-0009.4_ACCDB.zip (124.65 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_ACCDB.zip (124.65 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_ACCDB.zip (124.65 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_ACCDB.zip (124.65 MB - compressed format, ZIP)
+    - RDS-2013-0009.4_GDB.zip (106.01 MB - compressed format, ZIP)
+    - RDS-2013-0009.4_GPKG.zip (152.94 MB - compressed format, ZIP)
+    - RDS-2013-0009.4_PGD.zip (108.14 MB - compressed format, ZIP)
+    - RDS-2013-0009.4_SQLite.zip (165.82 MB - compressed format, ZIP)
+  - Access map service
   
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
