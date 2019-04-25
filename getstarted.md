@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Citation
-subtitle: ""
+title: Publication Details
+subtitle: "USDA Forest Service"
 bigimg: /img/start.jpg
 ---
 
