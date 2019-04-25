@@ -16,15 +16,15 @@ bigimg: /img/start.jpg
 **Keywords:** biota; geoscientificInformation; location; Fire; Fire detection; wildfire; Fire Program Analysis; United States
 
 **Data Access:**
-  - View metadata (HTML)
-  - View file index (HTML) which lists all files in this data publication and a short description of their contents
+  - View [metadata](https://www.fs.usda.gov/rds/archive/products/RDS-2013-0009.4/_metadata_RDS-2013-0009.4.html) (HTML)
+  - View [file index](https://www.fs.usda.gov/rds/archive/products/RDS-2013-0009.4/_fileindex_RDS-2013-0009.4.html) (HTML) which lists all files in this data publication and a short description of their contents
   - Choose from the multiple file formats available for this data publication. Each download includes metadata, file index, data files, and any other supplemental files provided by the author
-    - RDS-2013-0009.4_ACCDB.zip (124.65 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_GDB.zip (106.01 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_GPKG.zip (152.94 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_PGD.zip (108.14 MB - compressed format, ZIP)
-    - RDS-2013-0009.4_SQLite.zip (165.82 MB - compressed format, ZIP)
-  - Access map service
+    - [RDS-2013-0009.4_ACCDB.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_ACCDB/content) (124.65 MB - compressed format, ZIP)
+    - [RDS-2013-0009.4_GDB.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_GDB/content) (106.01 MB - compressed format, ZIP)
+    - [RDS-2013-0009.4_GPKG.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_GPKG/content) (152.94 MB - compressed format, ZIP)
+    - [RDS-2013-0009.4_PGD.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_PGD/content) (108.14 MB - compressed format, ZIP)
+    - [RDS-2013-0009.4_SQLite.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_SQLite/content) (165.82 MB - compressed format, ZIP)
+  - Access [map service](https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_FireOccurrence_01/MapServer)
   
 
 To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
