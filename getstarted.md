@@ -2,7 +2,7 @@
 layout: page
 title: Dataset Information
 subtitle: "USDA Forest Service"
-bigimg: /img/forestfire.jpg
+bigimg: /img/datasetimg.jpg
 ---
 
 **Title:** Spatial wildfire occurrence data for the United States, 1992-2015 [FPA_FOD_20170508] (4th Edition)
@@ -26,7 +26,7 @@ bigimg: /img/forestfire.jpg
     - [RDS-2013-0009.4_SQLite.zip](https://www.fs.usda.gov/rds/fedora/objects/RDS:RDS-2013-0009.4/datastreams/RDS-2013-0009.4_SQLite/content) (165.82 MB - compressed format, ZIP)
   - Access [map service](https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_FireOccurrence_01/MapServer)
 
-## CITATION:
+# CITATION:
 
 ---
 
