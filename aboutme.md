@@ -13,6 +13,4 @@ subtitle: The essentials
   - M.Sc, Data Science, [The George Washington University](https://www.gwu.edu)
   - B.Sc, Agribusiness, [Delaware State University](https://www.desu.edu) 
 
-**Open knowledge**: On my spare time I have been creating open source tools for handling open data in the [Louhos][] and [rOpenGov][] projects. See more at the [Projects][proj-opentools] page.
-
-**Hobbies**: Ultimate frisbee, freeskiing, kiteskiing, photography, cycling. 
+**Skills**: On my spare time I have been creating open source tools for handling open data in the [Louhos][] and [rOpenGov][] projects. See more at the [Projects][proj-opentools] page.
