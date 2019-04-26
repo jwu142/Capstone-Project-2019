@@ -14,4 +14,11 @@ bigimg: /img/datasetimg.jpg
   - M.Sc, Data Science, [The George Washington University](https://www.gwu.edu)
   - B.Sc, Agribusiness, [Delaware State University](https://www.desu.edu) 
 
-**Skills**: On my spare time I have been creating open source tools for handling open data in the [Louhos][] and [rOpenGov][] projects. See more at the [Projects][proj-opentools] page.
+**Skills**: 
+  - Microsoft Office PowerPoint, Word, Publisher, Outlook and Excel
+  - MySQL, Python, R, Google API, HTML, Tableau, GIS and Google Analytics IndividualQualification
+  - Experiences in the fields of Data Mining, Data Visualization, Data Analysis and Machine Learning
+  
+**REelevant Coursework**:
+  - Biometrics - Principles ofMarketing - Sustainable Agriculture
+  - Managerial Finance - Ecology - Accounting I &II
