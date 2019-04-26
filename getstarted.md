@@ -2,7 +2,7 @@
 layout: page
 title: Dataset Information
 subtitle: "USDA Forest Service"
-bigimg: /img/start.jpg
+bigimg: /img/forestfire.jpg
 ---
 
 **Title:** Spatial wildfire occurrence data for the United States, 1992-2015 [FPA_FOD_20170508] (4th Edition)
