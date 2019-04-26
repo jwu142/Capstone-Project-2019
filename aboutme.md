@@ -20,5 +20,5 @@ bigimg: /img/datasetimg.jpg
   - Experiences in the fields of Data Mining, Data Visualization, Data Analysis and Machine Learning
   
 **REelevant Coursework**:
-  - Biometrics - Principles ofMarketing - Sustainable Agriculture
-  - Managerial Finance - Ecology - Accounting I &II
+  - Biometrics, Sustainable Agriculture, Ecology, Fundamentals of Crop Production, Poultry Science, Soil Science, Weed Science
+  - Principles of Marketing, Managerial Finance, Accounting I&II, Business Law, Macro/Microeconomics, Banking
