@@ -5,7 +5,7 @@ subtitle: The essentials
 ---
 
 **Work Experience**: 
-  - Data Analyst,[Peace Corps](https://www.peacecorps.gov)
+  - Data Analyst, [Peace Corps](https://www.peacecorps.gov)
   - Bioenergy Research Assistant (summer intern), [Northeast Woody/Warm-season Biomass Consortium](http://www.newbio.psu.edu)
   - Research Assistant, [The Center for Integrated Biological and Environmental Research (CIBER)](https://ciber.desu.edu)
 
