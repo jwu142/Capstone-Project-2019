@@ -30,9 +30,9 @@ description: Here's the description of my porject
 navbar-links:
   Home: ""
   Resources:
-    - Citation: "getstarted"
+    - Dataset: "getstarted"
     - Appendix: "featured-users"
-    - Github: "https://github.com/jwu142/Capstone-Project-2019/tree/gh-pages"
+    - Wu's Github: "https://github.com/jwu142/Capstone-Project-2019/tree/gh-pages"
   Example pages:
     - Example of a Markdown page: "md-example"
     - Gallery: "html-example"
