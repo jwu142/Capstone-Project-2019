@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication Details
+title: Dataset Information
 subtitle: "USDA Forest Service"
 bigimg: /img/start.jpg
 ---
