@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning 
+title: Wildfire Cause Prediction
 subtitle: Python
 ---
 
