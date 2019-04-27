@@ -1,9 +1,7 @@
 <center> 1.88 Million US Wildfires Analysis </center>
 
 Jiajun Wu, M.S.
-
 Nima Zahadat, Ph.D.
-
 The George Washington University
 
 ![GW Data Science logo](/img/gwdsp.png)
