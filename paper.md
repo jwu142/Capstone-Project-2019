@@ -6,8 +6,8 @@ subtitle: Jiajun Wu
 bigimg: /img/joanne-francis-978866-unsplash.jpg
 ---
 # <center> 1.88 Million US Wildfires Analysis </center>
-### <center> Jiajun Wu, M.S. </center>
-### <center> Nima Zahadat, Ph.D. </center>
+<center> Jiajun Wu, M.S. </center>
+<center> Nima Zahadat, Ph.D. </center>
 <center> The George Washington University </center>
 
 ## **ABSTRACT**
