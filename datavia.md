@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Visualization 
-subtitle: Python, Tableau, Flourish
+subtitle: 1.88 Million US Wildfires
 ---
 
 <div class="main-explain-area jumbotron">
