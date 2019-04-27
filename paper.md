@@ -9,7 +9,7 @@ bigimg: /img/joanne-francis-978866-unsplash.jpg
 <center> ##Jiajun Wu, M.S. </center>
 <center> #Nima Zahadat, Ph.D. </center>
 <center> The George Washington University </center>
-<center> ![GW Data Science logo](/img/gwdsp.png) </center>
+![GW Data Science logo](/img/gwdsp.png) 
 
 
 
