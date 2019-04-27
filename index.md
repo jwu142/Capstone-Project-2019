@@ -11,9 +11,7 @@ bigimg: /img/wildfirespic1.jpg
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 
-```
-x <- 5 # Here's some R code
-```
+
 
 {% include flourish.html %}
 
