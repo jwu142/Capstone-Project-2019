@@ -34,7 +34,6 @@ navbar-links:
     - Appendix: "featured-users"
     - Wu's Github: "https://github.com/jwu142/Capstone-Project-2019/tree/gh-pages"
   Project:
-    - Example of a Markdown page: "md-example"
     - Gallery: "html-example"
     - Data Visualization: "datavia"
     - Machine Learning: "ml"
