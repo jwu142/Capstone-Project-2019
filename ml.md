@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Data Visualization 
-subtitle: Python, Tableau, Flourish
+title: Machine Learning 
+subtitle: Python
 ---
 
 <div class="main-explain-area jumbotron">
-  <p>This capstone project is primally focused on data visualization based on python, tableau, and flourish. The motivation for this project is to apply the data visualization skills we have learned in class onto a real-world data set. </p>
+  <p>The secondary motivation of this project is uses a machine learning approach to analyze the wildfire data to predict the causes of wildfires. Core models are Random Forest, Neural Network, and Supoort Vector Machine(SVM).  </p>
 </div>
