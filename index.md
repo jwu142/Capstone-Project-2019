@@ -17,4 +17,4 @@ bigimg: /img/wildfirespic1.jpg
 {% include flourish.html %}
 
 
-![GW Data Science logo](/img/gwdsp.png)
+<center> ![GW Data Science logo](/img/gwdsp.png) </center>
