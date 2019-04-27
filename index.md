@@ -1,14 +1,18 @@
 ---
 layout: page
 title: 1.88 Million US Wildfires Analysis
-subtitle: Data Science Capstone_DATS_6501_10
+subtitle: Data Science Capstone DATS 6501 10
 bigimg: /img/wildfirespic1.jpg
 ---
 
-## How about a link?
+<div class="main-explain-area jumbotron">
+  <p>The effects of wildfires are manifold. They can have a significant negative impact on the economy, environment, heritage and social fabric of rural areas. A little spark kindles a great fire. In recent years, as fire incidents in the United States have become larger and more destructive, the government and related departments urgently need to develop long-term social and ecological strategies to mitigate the impact. Climate change is a factor to increase wildfires. However, most of wildfires were caused by humans. 
+ </p>
+</div>
+
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Let's Explore!</a>
 </div>
 
 
