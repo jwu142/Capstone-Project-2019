@@ -9,3 +9,5 @@ subtitle: Python, Tableau, Flourish
 </div>
 
 {% include flourish.html %}
+
+{% include DurationDayswithWildfireSize.html %}
