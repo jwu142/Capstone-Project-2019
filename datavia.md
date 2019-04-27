@@ -9,6 +9,7 @@ subtitle: Python, Tableau, Flourish
 </div>
 
 [Flourish:](https://flourish.studio)  Quickly turn your spreadsheets into stunning online charts, maps and interactive stories. No coding required. Animated storytelling
+
 [Tableau.public:](https://public.tableau.com/profile/jiajun.wu#!/) Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
 
 {% include flourish.html %}
