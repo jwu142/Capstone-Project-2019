@@ -34,13 +34,13 @@ Wildfires (also known as forest or peat fires) are a type of fire that cannot be
 **Study Area:**
 The dataset consists of 1.88 million geo-referenced wildfire records with 51 attributes representing the 140 million acres burned during the 24 years (1992-2015) in the United States.
 
-# **Packages:**
+**Packages:**
 We use Python to analyze forest fire data. Specific packages used are Numpy, Pandas, and Scikit-learn. We use Matplotlib for visualizations. For the methods, I used to make my predictor, I tried Neural Net, Random Forest and Support Vector Machine (SVM). A connector was created at the beginning in order to connect to the SQL database. 
 
-# **Data cleaning, preprocessing, and feature selection:**
+**Data cleaning, preprocessing, and feature selection:**
 Datasets were cleaned up before the data visualization and modeling. Data preprocessing techniques were used to reduce the samples and prepare the data for machine learning algorithms by excluding null values and converted Julian Date format to Gregorian dates. Python, JavaScript, Web, API, and Tableau were used for data visualization. Machine learning was done using Random Forest Classifier, MLP Classifier, Decision Tree Classifier, and Logistic Regression to determine whether a predictable relationship exists between the wildfires and the related features such as date, location, and states. Finally, this data analysis project can give professional experts some ideas and show general information about US wildfires.
 
-# **DATA**
+**DATA**
 
 The data publication contains a spatial database of wildfires in the United States from 1992 to 2015. Wildfire records were obtained from the reporting systems of federal, state and local fire organizations. The following core data elements are included in the datasets: the date of discovery, the final fire size, and the location of points. Some basic error-checking has been performed and removed as much as possible. The dataset consists of 1.88 million geo-referenced wildfire records with 51 attributes representing the 140 million acres burned during the 24 years (1992-2015).
 
