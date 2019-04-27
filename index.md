@@ -14,8 +14,7 @@ bigimg: /img/wildfirespic1.jpg
   <a class="btn btn-success btn-lg get-started-btn" href="https://jwu142.github.io/Capstone-Project-2019/getstarted/">Let's Explore!</a>
 </div>
 
-/img/fire.gif
-
+[fire gif](/img/fire.gif)
 
 
 {% include flourish.html %}
