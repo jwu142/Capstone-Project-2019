@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 1.88 Million US Wildfires Analysis
-subtitle: Jiajun Wu 
-subtitle: GWU
+subtitle: Jiajun Wu
+          GWU
 bigimg: /img/joanne-francis-978866-unsplash.jpg
 ---
 <center> 1.88 Million US Wildfires Analysis </center>
