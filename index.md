@@ -11,17 +11,10 @@ bigimg: /img/joanne-francis-978866-unsplash.jpg
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 
-
-And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
-
 ```
 x <- 5 # Here's some R code
 ```
 
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-\{\% include jupyter-basic_bar.html \%\}
-```
 {% include flourish.html %}
 
 
