@@ -36,7 +36,7 @@ navbar-links:
   Project:
     - Example of a Markdown page: "md-example"
     - Gallery: "html-example"
-    - Data Visualization: "Datavia"
+    - Data Visualization: "datavia"
     - Report: "paper"
   About/contact: "aboutme"
 
