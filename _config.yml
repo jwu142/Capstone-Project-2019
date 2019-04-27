@@ -37,7 +37,7 @@ navbar-links:
     - Example of a Markdown page: "md-example"
     - Gallery: "html-example"
     - Data Visualization: "Datavia"
-    - Report: "report"
+    - Report: "paper"
   About/contact: "aboutme"
 
 # --- Footer options --- #
