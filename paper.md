@@ -7,11 +7,10 @@ bigimg: /img/joanne-francis-978866-unsplash.jpg
 ---
 <center> 1.88 Million US Wildfires Analysis </center>
 
-Jiajun Wu, M.S.
-Nima Zahadat, Ph.D.
-The George Washington University
-
-![GW Data Science logo](/img/gwdsp.png)
+<center> Jiajun Wu, M.S. </center>
+<center> Nima Zahadat, Ph.D. </center>
+<center> The George Washington University </center>
+</center> ![GW Data Science logo](/img/gwdsp.png) </center>
 
 
 
