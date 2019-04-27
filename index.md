@@ -12,7 +12,7 @@ bigimg: /img/wildfirespic1.jpg
 
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Let's Explore!</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="https://jwu142.github.io/Capstone-Project-2019/getstarted/">Let's Explore!</a>
 </div>
 
 
