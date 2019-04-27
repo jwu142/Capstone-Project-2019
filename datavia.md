@@ -11,3 +11,5 @@ subtitle: Python, Tableau, Flourish
 {% include flourish.html %}
 
 {% include DurationDayswithWildfireSize.html %}
+
+{% include tableau.html %}
