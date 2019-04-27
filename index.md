@@ -2,7 +2,7 @@
 layout: page
 title: 1.88 Million US Wildfires Analysis
 subtitle: Data Science Capstone_DATS_6501_10
-bigimg: /img/joanne-francis-978866-unsplash.jpg
+bigimg: /img/wildfirespic1.jpg
 ---
 
 ## How about a link?
