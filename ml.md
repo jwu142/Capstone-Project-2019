@@ -17,28 +17,20 @@ subtitle: Python
 # Data Preprocess
   - Load the data 
   - Clean the Data
-  
-```
-#Julian Date format to Gregorian dates
-fires['DATE'] = pd.to_datetime(fires['DISCOVERY_DATE'] - pd.Timestamp(0).to_julian_date(), unit='D')
-fires['MONTH'] = pd.DatetimeIndex(fires['DATE']).month
-fires['DAY_OF_WEEK'] = fires['DATE'].dt.weekday_name
-```
+    - Julian Date format to Gregorian dates
+      ```
+      #Julian Date format to Gregorian dates
+      fires['DATE'] = pd.to_datetime(fires['DISCOVERY_DATE'] - pd.Timestamp(0).to_julian_date(), unit='D')
+      fires['MONTH'] = pd.DatetimeIndex(fires['DATE']).month
+      fires['DAY_OF_WEEK'] = fires['DATE'].dt.weekday_name
+      ```
 
-
-
-
-
-```
-x <- 5 # Here's some R code
-```
 # Machine Learning
 1. MLPClassifier
 2. Logistic Regression Model
-3. Support Vector Model
-    (I had to kill the gradient boost, my low spec laptop couldn't cope with this algorithm and the number of rows.) 
-4. Random Forest Classifier
-5. Decision Tree Classifier
+3. Random Forest Classifier
+4. Decision Tree Classifier
+5. Support Vector Model (I had to kill the gradient boost, my low spec laptop couldn't cope with this algorithm and the number of rows.) 
 
 
 ```
@@ -50,21 +42,11 @@ x <- 5 # Here's some R code
   - Model Selection
   - Predictions
 
-
 ```
 x <- 5 # Here's some R code
 ```
 
 # Conclusion 
-
-
-
-
-```
-x <- 5 # Here's some R code
-```
-
-
 
 ```
 x <- 5 # Here's some R code
