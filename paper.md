@@ -69,11 +69,20 @@ Every year since January, the number of wildfires will be going to increase unti
 
 ## **RECOMMENDATIONS**
 
-Going forward, if we were to continue our study of the wildfire&#39;s dataset, there are some additional steps we can going deeper.
+Here are a few tips for future consideration and research about wildfires based on this dataset. 
 
-With the increase of global climate, wildfire will be more frequency in the next decades if people who do not pay attentions to manage forest. This dataset is well documented however, if there more detail needs to be added in future. The wildfire can be classified more specifically as a brush fire, desert fire, forest fire, grass fire, hill fire, peat fire, vegetation fire, or veld fire based on
+With the increase of global climate, wildfires will be more frequent in the next few decades. This dataset is well documented; however, there should be more detail added in the future. The wildfire can be classified more specifically as a brush fire, desert fire, forest fire, grass fire, hill fire, peat fire, vegetation fire, or veld fire.
 
-The datasets can be further improved in the future. And
+The wildfire dataset for Puerto Rico and Hawaii need to improve in the future because most of the causes of wildfires in these two areas are defined as “Missing/Undefined”. 
+
+As the result from previous analysis, the lighting caused wildfires are hard to control and put out. Future research projects can combine other subjects such as meteorology to predict lightning. The lightning data should be considered and applied. 
+
+And also, in future research, we can focus more on the temperature, because in our previous study, we only analyze the relationship between month and wildfire records. I think the temperature is more accurately compared to month because the country is large, and different states will have a different temperature during the same month. 
+
+Government plays an essential role in wildfires. We could do more research about the wildfire policy in each state. From the previous results, some similar and nearby states have a different situation. One example is South Carolina, which has a lot of small-size wildfires. However, the neighboring states, such as Georgia and North Carolina, did not suffer too many wildfires in the past 24-years.
+
+Using a machine learning approach to analyze the wildfire data to predict the causes of wildfires.
+
 
 ## **CONCLUSION**
 
