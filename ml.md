@@ -40,9 +40,8 @@ x <- 5 # Here's some R code
 2. Logistic Regression Model
 3. Support Vector Model
     (I had to kill the gradient boost, my low spec laptop couldn't cope with this algorithm and the number of rows.) 
-4. Neural Net Model
-5. Random Forest Classifier
-6. Decision Tree Classifier
+4. Random Forest Classifier
+5. Decision Tree Classifier
 
 
 ```
