@@ -47,7 +47,11 @@ x <- 5 # Here's some R code
 ```
 x <- 5 # Here's some R code
 ```
-
+# Pipeline Method
+  - Create the dictionary of parameter grids
+  - Hyperparameter tuning
+  - Model Selection
+  - Predictions
 
 
 ```
