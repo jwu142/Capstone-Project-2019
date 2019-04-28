@@ -8,21 +8,11 @@ subtitle: Python
   <p>The secondary motivation of this project is uses a machine learning approach to analyze the wildfire data to predict the causes of wildfires. Core models are Random Forest, Neural Network, and Supoort Vector Machine(SVM).  </p>
 </div>
 
-```
-import sqlite3
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-
-from sklearn.model_selection import train_test_split
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn import preprocessing
-# from sklearn.ensemble import RandomForestClassifier
-import seaborn as sns
-import warnings
-warnings.filterwarnings("ignore")
-```
-
+# Package
+  - Numpy 
+  - Pandas
+  - Scikit-lean
+  - Matplotlib
 
 # Data Preprocess
 
@@ -57,6 +47,8 @@ x <- 5 # Here's some R code
 ```
 x <- 5 # Here's some R code
 ```
+
+# Conclusion 
 
 
 
