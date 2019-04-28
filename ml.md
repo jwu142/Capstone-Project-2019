@@ -35,7 +35,14 @@ fires['DAY_OF_WEEK'] = fires['DATE'].dt.weekday_name
 ```
 x <- 5 # Here's some R code
 ```
-
+# Machine Learning
+1. MLPClassifier
+2. Logistic Regression Model
+3. Support Vector Model
+    (I had to kill the gradient boost, my low spec laptop couldn't cope with this algorithm and the number of rows.) 
+4. Neural Net Model
+5. Random Forest Classifier
+6. Decision Tree Classifier
 
 
 ```
