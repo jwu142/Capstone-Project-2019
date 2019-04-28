@@ -28,6 +28,8 @@ The sum of fire sizes and the number of records is compared through the past 24 
 
 {% include size_flourish_pie_chart.html %}
 
+Most of wildfire sizes are between 0 to 9.9 acres; that means most of these fires can be put out on time and significant losses can be avoided through timely discovery and practical measures. However, in the past few years, the number of mega wildfires has increased extremely quickly and appears pretty hard to control. According to the previous dataset, every six years the number of large fires will reach a peak,  the next two peak times of Mega wildfires will be in 2018 and 2024.
+
 # Geography
 {% include top10flourish.html %}
 
