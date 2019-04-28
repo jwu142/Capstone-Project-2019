@@ -16,5 +16,3 @@ bigimg: /img/wildfirespic1.jpg
 
 ![fire](/img/fire.gif)
 
-
-{% include flourish.html %}
