@@ -96,6 +96,25 @@ Based on the past 24-years data, the records number of wildfires are going decre
 
 ## **REFERENCES**
 
+1.	Stefania Amici, Martin J. Wooster, Alessandro Piscini. Multi-resolution spectral analysis of wildfire potassium emission signatures using laboratory, airborne and spaceborne remote sensing. www.elsevier.com/locate/rse
+2.	Hernandez-Magallanes. Combining ungrouped and grouped wildfire data to estimate fire risk.  DOI: 10.1002/env.2235
+3.	Frederic Schoenberg, Roger Peng, Zhijun Huang. Exploratory Analysis of Los Angeles County Wildfire   Data.  https://escholarship.org/uc/item/3033n4nd 
+4.	Alan A. Ager, Michelle Buonopane, Allison Reger, and Mark A. Finney. Wildfire Exposure    Analysis on the National Forests in the Pacific Northwest, USA
+	DOI: 10.1111/j.1539-6924.2012.01911.x
+5.	Alan A. Ager1, Cody R. Evers, Michelle A. Day, Haiganoush K. Preisler, Ana M. G. Barros, Max  
+Nielsen-Pincus. 2017. Network analysis of wildfire transmission and implications for risk governance. 
+6.	Forest fire videos – See how fire started on Earth. BBC Earth. Archived from the original on 16
+      October 2015. Retrieved 13 February 2016.
+7.	Wildfires Article, Forest Fires Information, Wildland Fires Facts -- National Geographic."  
+National Geographic. "
+8.	Wildfire Definitions." NPS. 				
+http://www.nps.gov/olym/parkmgmt/upload/fire-wildfire-definitions-2.pdf 
+9.	United States. National Park Service. "Wildland Fire: Wildfire Causes | U.S. National Park Service." National Parks Service. 
+	http://www.nps.gov/fire/wildland-fire/learning-center/fire-in-depth/wildfire-causes.cfm 
+10.	"Science and Innovation - Forest Fires." Science and Innovation - Forest Fires. 
+	http://www.borealforest.org/world/innova/forest_fire.htm 
+
+
 ## **CITATION:**
 
 Citation: These data were collected using funding from the U.S. Government and can be used without additional permissions or fees. If you use these data in a publication, presentation, or other research product please use the following citation:
