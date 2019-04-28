@@ -26,4 +26,6 @@ Humans are the chief culprits of wildfires. According to the source from Nationa
 
 The sum of fire sizes and the number of records is compared through the past 24 years. The year 2006 has the most wildfires. In general, the number of wildfires is going to decrease. However, that does not mean that wildfires are going to be less of a threat for humans. This is because the fire size is becoming larger even though the number of occurencies is going to decrease. 
 
+# Geography
+{% include top10flourish.html %}
 
