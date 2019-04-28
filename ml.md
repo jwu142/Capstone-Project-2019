@@ -15,21 +15,18 @@ subtitle: Python
   - Matplotlib
 
 # Data Preprocess
-
-```
-#Load the data 
-sqlite_file = "FPA_FOD_20170508.sqlite"
-conn=sqlite3.connect(sqlite_file)
-c = conn.cursor()
-fires = pd.read_sql_query("SELECT * FROM fires", conn)
-```
-
+  - Load the data 
+  - Clean the Data
+  
 ```
 #Julian Date format to Gregorian dates
 fires['DATE'] = pd.to_datetime(fires['DISCOVERY_DATE'] - pd.Timestamp(0).to_julian_date(), unit='D')
 fires['MONTH'] = pd.DatetimeIndex(fires['DATE']).month
 fires['DAY_OF_WEEK'] = fires['DATE'].dt.weekday_name
 ```
+
+
+
 
 
 ```
