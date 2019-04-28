@@ -33,3 +33,10 @@ Most of wildfire sizes are between 0 to 9.9 acres; that means most of these fire
 # Geography
 {% include top10flourish.html %}
 
+
+{% include tableau_geo.html %}
+
+
+
+
+
