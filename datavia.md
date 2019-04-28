@@ -14,6 +14,8 @@ subtitle: 1.88 Million US Wildfires
 
 {% include wildfires_record_by_cause.html %}
 
+{% include wildfires_record_by_unclassified_cause.html %}
+
 Humans are the chief culprits of wildfires. According to the source from National Park Service under the U.S. Department of Interior, 90% of all wildfires are started by humans in the United States.
 
 
