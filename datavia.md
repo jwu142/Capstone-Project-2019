@@ -12,11 +12,15 @@ subtitle: 1.88 Million US Wildfires
 
 [Tableau.public:](https://public.tableau.com/profile/jiajun.wu#!/) Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
 
+# Wildfire Causes 
+
 {% include wildfires_record_by_cause.html %}
 
 {% include wildfires_record_by_unclassified_cause.html %}
 
 Humans are the chief culprits of wildfires. According to the source from National Park Service under the U.S. Department of Interior, 90% of all wildfires are started by humans in the United States.
+
+# Wildfire Size
 
 {% include Record_Size_by_Year_with_Trend_Line.html %}
 
