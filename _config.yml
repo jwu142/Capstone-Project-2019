@@ -36,6 +36,7 @@ navbar-links:
   Project:
     - Data Visualization: "datavia"
     - Machine Learning: "ml"
+    - Future Consideration: "future_consideration" 
     - Report: "paper"
   About/contact: "aboutme"
 
