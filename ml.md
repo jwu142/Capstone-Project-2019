@@ -47,6 +47,8 @@ x <- 5 # Here's some R code
 
 # Conclusion 
 
+In conclusion, the we discovered that the Random Forest model, with its ability to robustly handle noise in datasets, was the best suited to our wildfires dataset. 
+
 ```
 x <- 5 # Here's some R code
 ```
