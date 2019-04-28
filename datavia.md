@@ -12,8 +12,5 @@ subtitle: 1.88 Million US Wildfires
 
 [Tableau.public:](https://public.tableau.com/profile/jiajun.wu#!/) Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click.
 
-{% include flourish.html %}
+{% include wildfires_record_by_cause.html %}
 
-{% include DurationDayswithWildfireSize.html %}
-
-{% include tableau.html %}
