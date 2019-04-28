@@ -18,5 +18,8 @@ subtitle: 1.88 Million US Wildfires
 
 Humans are the chief culprits of wildfires. According to the source from National Park Service under the U.S. Department of Interior, 90% of all wildfires are started by humans in the United States.
 
+{% include Record_Size_by_Year_with_Trend_Line.html %}
+
+The sum of fire sizes and the number of records is compared through the past 24 years. The year 2006 has the most wildfires. In general, the number of wildfires is going to decrease. However, that does not mean that wildfires are going to be less of a threat for humans. This is because the fire size is becoming larger even though the number of occurencies is going to decrease. 
 
 
