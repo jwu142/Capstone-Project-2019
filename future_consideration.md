@@ -12,3 +12,6 @@ bigimg: /img/joanne-francis-978866-unsplash.jpg
   - Temperature should be more considered. In our previous study, we only analyze the relationship between month and wildfire records. 
   - Research about the wildfire policy in each state.
   - Machine Learning
+
+# Conclustion 
+According to the previous dataset, every six years the number of large fires will reach a peak, the next two peak times of Mega wildfires will be in 2018 and 2024. 
