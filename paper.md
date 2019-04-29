@@ -43,11 +43,14 @@ Datasets were cleaned up before the data visualization and modeling. Data prepro
 **DATA**
 The data publication contains a spatial database of wildfires in the United States from 1992 to 2015. Wildfire records were obtained from the reporting systems of federal, state and local fire organizations. The following core data elements are included in the datasets: the date of discovery, the final fire size, and the location of points. Some basic error-checking has been performed and removed as much as possible. The dataset consists of 1.88 million geo-referenced wildfire records with 51 attributes representing the 140 million acres burned during the 24 years (1992-2015).
 
-## **DATA ANALYSIS**
+## **DATA ANALYSIS & MACHINE LEARNING**
 
 The dataset is an SQLite database that contains the 1.88 million wildfire records with the fifty-one attributes. The column, Fires, includes wildfire data from the period of 1992-2015 compiled from US federal, state, and local reporting systems. Country, state, discovery date, geographic area, latitude, longitude, and fire size were updated and organized uniformly and accurately. 
 
-Python was used to analyze the US wildfires data. Specific packages used are NumPy, Pandas, and Scikit-learn. For the methods used to make predictor, Neural Net, Random Forest and Supoortt Vector Machine (SVM). Tableau provided support for almost all data visualizations including bar-charts, line chart, symbol map, geo-map, packed bubbles, bullet graphs, pie chart and heat map. Folium is a powerful data visualization library for helping people visualize geospatial data in Python. Geographic heat maps are animated based on certain dimensions using a class method called HeatMapWithTime(). The code is publicly available at [*github*](https://github.com/jwu142/Capstone-Project-2019/tree/master). 
+Python was used to analyze the US wildfires data. Specific packages used are NumPy, Pandas, and Scikit-learn. For the methods used to make predictor, Neural Net, Random Forest and Supoortt Vector Machine (SVM). Tableau provided support for almost all data visualizations including bar-charts, line chart, symbol map, geo-map, packed bubbles, bullet graphs, pie chart and heat map. Folium is a powerful data visualization library for helping people visualize geospatial data in Python. Geographic heat maps are animated based on certain dimensions using a class method called HeatMapWithTime(). 
+
+Modeling for machine learning part is focused on the following features: the cause of the fire, latitude, longitude, fire size, discovery date, month, week of day, and state. We tested several different methods to model our dataset, all involving our core three models: Multi-Layer Perceptron, Logistic Regression, Random Forest, Decision Tree and Support Vector Model. In the end, the results are reviewed, and suggestions for further study are put forward. Random Forest Classifier can predict the causes of the wildfire with a 70.19% accuracy. The code is publicly available at [*github*](https://github.com/jwu142/Capstone-Project-2019/tree/master). 
+
 
 ## **KEY FINDINGS**
 
