@@ -33,6 +33,7 @@ navbar-links:
     - Dataset: "getstarted"
     - Appendix: "featured-users"
     - Wu's Github: "https://github.com/jwu142/Capstone-Project-2019/tree/gh-pages"
+    - Wu's Zenodo: "https://zenodo.org/record/2653898#.XMdVVKeZPOQ"
   Project:
     - Data Visualization: "datavia"
     - Machine Learning: "ml"
