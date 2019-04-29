@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wildfire Cause Prediction
-subtitle: Python
+subtitle: Python, AWS
 ---
 
 <div class="main-explain-area jumbotron">
