@@ -58,7 +58,8 @@ subtitle: Python, AWS
   - Hyperparameter tuning
   - Model Selection
   - Predictions
-  ### I have to give up for this process. My dataset is huge, I did a similar process before, but this time, I waited like a half day, but still didn't get any result.
+
+### I have to give up for this process. My dataset is huge, I did a similar process before, but this time, I waited like a half day, but still didn't get any result.
   
 # Conclusion 
 
