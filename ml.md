@@ -23,6 +23,20 @@ subtitle: Python, AWS
       fires['MONTH'] = pd.DatetimeIndex(fires['DATE']).month
       fires['DAY_OF_WEEK'] = fires['DATE'].dt.weekday_name
       ```
+  - Categorize the cause to accident, human-caused and other.
+    ```
+    def cat3 (cats):
+    if cats in ['Lightning','Structure','Powerline','Railroad']:
+        return 'accident'
+    elif cats in ['Arson','Smoking','Children','Campfire','Equipment Use','Debris Burning','Fireworks']:
+        return 'human_caused'
+    else:
+        return 'other'
+    # Make two dataframes 
+    df3cats = df.copy() # make a copy to keep things neat
+    df3cats['STAT_CAUSE_DESCR'] = df3cats['STAT_CAUSE_DESCR'].apply(cat3)
+    categorizeCAUSE3Cats = df3cats.groupby('STAT_CAUSE_DESCR').STAT_CAUSE_DESCR.count()
+    ```
 
 # Machine Learning
 1. MLPClassifier
