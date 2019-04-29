@@ -41,18 +41,18 @@ subtitle: Python, AWS
 # Machine Learning
 1. MLPClassifier: 
    - Accuracy: 0.6791674983919977
+   
 2. Logistic Regression Model
    - Accuracy: 0.5626011932486082
+   
 3. Random Forest Classifier
    - Accuracy: 0.690088051988378
+   
 4. Decision Tree Classifier
    - Accuracy: 0.6334919156297825
+   
 5. Support Vector Model (I had to kill the gradient boost, my low spec laptop couldn't cope with this algorithm and the number of rows.) 
 
-
-```
-x <- 5 # Here's some R code
-```
 # Pipeline Method
   - Create the dictionary of parameter grids
   - Hyperparameter tuning
