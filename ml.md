@@ -54,5 +54,5 @@ x <- 5 # Here's some R code
 ```
 
 <div class="get-started-wrap">
-  <a class="btn btn-success btn-lg get-started-btn" href="https://jwu142.github.io/Capstone-Project-2019/getstarted/">ML Code!</a>
+  <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/jwu142/Capstone-Project-2019/tree/master/">ML Code!</a>
 </div>
