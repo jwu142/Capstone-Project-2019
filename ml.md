@@ -39,10 +39,14 @@ subtitle: Python, AWS
     ```
 
 # Machine Learning
-1. MLPClassifier
+1. MLPClassifier: 
+   - Accuracy: 0.6791674983919977
 2. Logistic Regression Model
+   - Accuracy: 0.5626011932486082
 3. Random Forest Classifier
+   - Accuracy: 0.690088051988378
 4. Decision Tree Classifier
+   - Accuracy: 0.6334919156297825
 5. Support Vector Model (I had to kill the gradient boost, my low spec laptop couldn't cope with this algorithm and the number of rows.) 
 
 
@@ -54,18 +58,12 @@ x <- 5 # Here's some R code
   - Hyperparameter tuning
   - Model Selection
   - Predictions
-
-```
-x <- 5 # Here's some R code
-```
-
+  ### I have to give up for this process. My dataset is huge, I did a similar process before, but this time, I waited like a half day, but still didn't get any result.
+  
 # Conclusion 
 
 In conclusion, the we discovered that the Random Forest model with a 70.19% accuracy, with its ability to robustly handle noise in datasets, was the best suited to our wildfires dataset. 
 
-```
-x <- 5 # Here's some R code
-```
 
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/jwu142/Capstone-Project-2019/tree/master/">ML Code!</a>
