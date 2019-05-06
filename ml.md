@@ -46,7 +46,7 @@ subtitle: Python, AWS
    - Accuracy: 0.5626011932486082
    
 3. Random Forest Classifier
-   - Accuracy: 0.690088051988378
+   - Accuracy: 0.701888051988378
    
 4. Decision Tree Classifier
    - Accuracy: 0.6334919156297825
